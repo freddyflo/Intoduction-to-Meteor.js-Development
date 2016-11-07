@@ -1,0 +1,2 @@
+meteor reset # wipes all data in the DB
+meteor create [name-of-app] # creates a meteor app
